@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm <span style="color:#4A90E2;">Chaitanya N.</span></h1>
+<h1 align="center">Hi there 👋, I'm <span style="color:#4A90E2;">Stack Weaver.</span></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=4A90E2&center=true&vCenter=true&width=800&lines=AI+%26+Blockchain+Engineer;Full+Stack+Developer;Always+Exploring+Future+Tech" alt="Typing SVG" />
@@ -85,8 +85,8 @@ I’m always exploring new intersections between <b>Blockchain, AI, and Automati
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" height="160px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=stack-weaver&show_icons=true&theme=radical" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stack-weaver&layout=compact&theme=radical" height="160px" />
 </div>
 
 ---
@@ -94,10 +94,9 @@ I’m always exploring new intersections between <b>Blockchain, AI, and Automati
 <h2 align="center">✨ Let's Connect</h2>
 
 <div align="center">
-  <a href="mailto:snowmandot0520@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:stackweaver7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://t.me/powerful_dev"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   <a href="https://discord.gg/t9N7Urf4qU"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/chaitanyan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
 
 ---
