@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm <span style="color:#4A90E2;">Stack Weaver.</span></h1>
+<h1 align="center">Hi there 👋, I'm <span style="color:#4A90E2;">Stack Weaver</span></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=4A90E2&center=true&vCenter=true&width=800&lines=AI+%26+Blockchain+Engineer;Full+Stack+Developer;Always+Exploring+Future+Tech" alt="Typing SVG" />
@@ -14,7 +14,7 @@ I specialize in creating secure, scalable, and efficient solutions — from <b>s
 <br><br>
 Over the years, I’ve developed and deployed:
 <ul>
-  <li>⚡ Decentralized Exchanges (DEXs) and Multi-chain Launchpads</li>
+  <li>⚡ Smart Contract, dAPP, Decentralized Exchanges (DEXs) and Multi-chain Launchpads</li>
   <li>💎 NFT Marketplaces, Presale Platforms, and Cross-chain Bridges</li>
   <li>🧠 AI-powered Chatbots, Recommendation Engines, and Predictive Models</li>
   <li>🔐 Blockchain-integrated SaaS products and FinTech systems</li>
