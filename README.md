@@ -79,6 +79,10 @@ I’m always exploring new intersections between <b>Blockchain, AI, and Automati
     <img src="https://skillicons.dev/icons?i=typescript" width="45" height="45" />
     <br><b>TypeScript</b>
   </td>
+    <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=nestjs" width="45" height="45" />
+    <br><b>Nest.js</b>
+  </td>
 </tr>
 </table>
 
@@ -87,7 +91,7 @@ I’m always exploring new intersections between <b>Blockchain, AI, and Automati
 <h2 align="center">🧩 Tech Stack Expertise</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,vue,angular,react,tailwind,express,nestjs,django,laravel,postgres,mysql,redis,aws,solidity,threejs,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,vue,angular,react,nextjs,tailwind,express,nestjs,django,laravel,postgres,mysql,redis,aws,solidity,rust,move,threejs,tensorflow,pytorch,c#,python," />
 </p>
 
 ---
