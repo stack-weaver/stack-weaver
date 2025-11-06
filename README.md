@@ -46,12 +46,12 @@ I’m always exploring new intersections between <b>Blockchain, AI, and Automati
     <br><b>Rust</b>
   </td>
   <td align="center" width="90">
-    <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50" />
-    <br><b>React / Next.js</b>
+    <img src="https://skillicons.dev/icons?i=haskell" width="45" height="45" />
+    <br><b>Haskell</b>
   </td>
   <td align="center" width="90">
-    <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" />
-    <br><b>Node.js</b>
+    <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50" />
+    <br><b>React / Next.js</b>
   </td>
   <td align="center" width="90">
     <img src="https://skillicons.dev/icons?i=python" width="45" height="45" />
@@ -79,10 +79,11 @@ I’m always exploring new intersections between <b>Blockchain, AI, and Automati
     <img src="https://skillicons.dev/icons?i=typescript" width="45" height="45" />
     <br><b>TypeScript</b>
   </td>
-    <td align="center" width="90">
+  <td align="center" width="90">
     <img src="https://skillicons.dev/icons?i=nestjs" width="45" height="45" />
     <br><b>Nest.js</b>
   </td>
+  
 </tr>
 </table>
 
@@ -91,7 +92,7 @@ I’m always exploring new intersections between <b>Blockchain, AI, and Automati
 <h2 align="center">🧩 Tech Stack Expertise</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,vue,angular,react,nextjs,tailwind,express,nestjs,django,laravel,postgres,mysql,redis,aws,solidity,rust,move,threejs,tensorflow,pytorch,c#,python," />
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,vue,angular,react,nextjs,express,nestjs,django,laravel,postgres,mysql,redis,aws,solidity,rust,haskell,go,threejs,tensorflow,pytorch,c#,python," />
 </p>
 
 ---
