@@ -105,6 +105,23 @@ I’m always exploring new intersections between <b>Blockchain, AI, and Automati
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=typescript,javascript,vue,angular,react,nextjs,express,nestjs,django,laravel,postgres,mysql,redis,aws,solidity,rust,haskell,go,threejs,tensorflow,pytorch,c#,python," />
+  <td align="center" width="90">
+      <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png" width="48" height="48" alt="Ethereum" />
+      <br>Ethereum
+    </td>
+    <td align="center" width="90">
+      <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png" width="48" height="48" style="border-radius: 15px;" alt="Solana" />
+      <br>Solana
+    </td>
+    <td align="center" width="90">
+      <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/6636.png" width="48" height="48" style="border-radius: 15px;" alt="Polkadot" />
+      <br>Polkadot
+    </td>
+    <!-- Cardano -->
+    <td align="center" width="90">
+      <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/2010.png" width="48" height="48" style="border-radius: 15px;" alt="Cardano" />
+      <br>Cardano
+    </td>
 </p>
 
 ---
