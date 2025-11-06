@@ -104,7 +104,7 @@ I’m always exploring new intersections between <b>Blockchain, AI, and Automati
 <h2 align="center">🧩 Tech Stack Expertise</h2>
 
 <p align="center" style="margin-top: 10px;">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,vue,angular,react,nextjs,express,nestjs,django,laravel,postgres,mysql,redis,aws,solidity,rust,haskell,go,threejs,tensorflow,pytorch,csharp,python" />
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,vue,angular,react,nextjs,express,nestjs,django,laravel,postgres,mysql,redis,aws,solidity,rust,haskell,go,threejs,tensorflow,pytorch,python" />
 </p>
 
 <p align="center" style="margin-top: 10px;">
