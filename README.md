@@ -80,6 +80,18 @@ I’m always exploring new intersections between <b>Blockchain, AI, and Automati
     <br><b>TypeScript</b>
   </td>
   <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=react" width="45" height="45" />
+    <br><b>React</b>
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" />
+    <br><b>Next.js</b>
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" />
+    <br><b>Node.js</b>
+  </td>
+  <td align="center" width="90">
     <img src="https://skillicons.dev/icons?i=nestjs" width="45" height="45" />
     <br><b>Nest.js</b>
   </td>
