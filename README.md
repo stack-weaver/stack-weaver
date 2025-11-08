@@ -109,11 +109,6 @@ I’m always exploring new intersections between <b>Blockchain, AI, and Automati
 ---
 
 <h2 align="center">🧩 Tech Stack Expertise</h2>
-
-<p align="center" style="margin-top: 10px;">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,vue,angular,react,nextjs,express,nestjs,django,laravel,postgres,mysql,redis,aws,solidity,rust,haskell,go,threejs,tensorflow,pytorch,python" />
-</p>
-
 <p align="center" style="margin-top: 10px;">
   <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png" width="48" height="48" style="border-radius: 15px; margin: 4px;" alt="Ethereum" />
   <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png" width="48" height="48" style="border-radius: 15px; margin: 4px;" alt="Solana" />
@@ -123,6 +118,12 @@ I’m always exploring new intersections between <b>Blockchain, AI, and Automati
   <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/5805.png" width="48" height="48" style="border-radius: 15px; margin: 4px;" alt="Avalanche" />
   <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1958.png" width="48" height="48" style="border-radius: 15px; margin: 4px;" alt="Tron" />
 </p>
+
+<p align="center" style="margin-top: 10px;">
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,vue,angular,react,nextjs,express,nestjs,django,laravel,postgres,mysql,redis,aws,solidity,rust,haskell,go,threejs,tensorflow,pytorch,python" />
+</p>
+
+
 
 
 ---
