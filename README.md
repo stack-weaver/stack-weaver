@@ -84,6 +84,10 @@ I’m always exploring new intersections between <b>Blockchain, AI, and Automati
     <br><b>React</b>
   </td>
   <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=vue" width="45" height="45" />
+    <br><b>Vue</b>
+  </td>
+  <td align="center" width="90">
     <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" />
     <br><b>Next.js</b>
   </td>
