@@ -95,7 +95,10 @@ I’m always exploring new intersections between <b>Blockchain, AI, and Automati
     <img src="https://skillicons.dev/icons?i=nestjs" width="45" height="45" />
     <br><b>Nest.js</b>
   </td>
-  
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" />
+    <br><b>PostgreSQL</b>
+  </td>
 </tr>
 </table>
 
