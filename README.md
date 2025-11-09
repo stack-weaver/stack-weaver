@@ -80,10 +80,6 @@ I’m always exploring new intersections between <b>Blockchain, AI, and Automati
     <br><b>TypeScript</b>
   </td>
   <td align="center" width="90">
-    <img src="https://skillicons.dev/icons?i=react" width="45" height="45" />
-    <br><b>React</b>
-  </td>
-  <td align="center" width="90">
     <img src="https://skillicons.dev/icons?i=vue" width="45" height="45" />
     <br><b>Vue</b>
   </td>
@@ -132,7 +128,7 @@ I’m always exploring new intersections between <b>Blockchain, AI, and Automati
 </p>
 
 <p align="center" style="margin-top: 10px;">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,vue,angular,react,nextjs,express,nestjs,django,laravel,postgres,mysql,redis,aws,solidity,rust,haskell,go,threejs,tensorflow,pytorch,python" />
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,vue,angular,react,nextjs,express,nestjs,django,laravel,postgres,mysql,redis,aws,solidity,rust,haskell,go,threejs,tensorflow,pytorch,python,c#,docker,fastapi" />
 </p>
 
 
