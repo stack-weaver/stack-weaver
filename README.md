@@ -51,7 +51,7 @@ I’m always exploring new intersections between <b>Blockchain, AI, and Automati
   </td>
   <td align="center" width="90">
     <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50" />
-    <br><b>React / Next.js</b>
+    <br><b>React</b>
   </td>
   <td align="center" width="90">
     <img src="https://skillicons.dev/icons?i=python" width="45" height="45" />
