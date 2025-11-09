@@ -69,14 +69,6 @@ I’m always exploring new intersections between <b>Blockchain, AI, and Automati
     <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" />
     <br><b>MongoDB</b>
   </td>
-  <td align="center" width="90">
-    <img src="https://skillicons.dev/icons?i=fastapi" width="45" height="45" />
-    <br><b>FastAPI</b>
-  </td>
-  <td align="center" width="90">
-    <img src="https://skillicons.dev/icons?i=restapi" width="45" height="45" />
-    <br><b>RestAPI</b>
-  </td>
 </tr>
 <tr>
   <td align="center" width="90">
@@ -110,6 +102,18 @@ I’m always exploring new intersections between <b>Blockchain, AI, and Automati
   <td align="center" width="90">
     <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" />
     <br><b>PostgreSQL</b>
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=fastapi" width="45" height="45" />
+    <br><b>FastAPI</b>
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=docker" width="45" height="45" />
+    <br><b>Docker</b>
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=c#" width="45" height="45" />
+    <br><b>C#</b>
   </td>
 </tr>
 </table>
