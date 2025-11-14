@@ -156,7 +156,7 @@ I’m always exploring new intersections between <b>Blockchain, AI, and Automati
 ---
 
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/stack-weaver/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 <p align="center">
