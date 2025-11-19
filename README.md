@@ -109,11 +109,6 @@ I’m always exploring new intersections between <b>Blockchain, AI, and Automati
 ---
 
 <h2 align="center">🧩 Tech Stack Expertise</h2>
-
-<p align="center" style="margin-top: 10px;">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,vue,angular,react,nextjs,express,nestjs,django,laravel,postgres,mysql,redis,aws,solidity,rust,haskell,go,threejs,tensorflow,pytorch,python" />
-</p>
-
 <p align="center" style="margin-top: 10px;">
   <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png" width="48" height="48" style="border-radius: 15px; margin: 4px;" alt="Ethereum" />
   <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png" width="48" height="48" style="border-radius: 15px; margin: 4px;" alt="Solana" />
@@ -123,6 +118,12 @@ I’m always exploring new intersections between <b>Blockchain, AI, and Automati
   <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/5805.png" width="48" height="48" style="border-radius: 15px; margin: 4px;" alt="Avalanche" />
   <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1958.png" width="48" height="48" style="border-radius: 15px; margin: 4px;" alt="Tron" />
 </p>
+
+<p align="center" style="margin-top: 10px;">
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,vue,angular,react,nextjs,express,nestjs,django,laravel,postgres,mysql,redis,aws,solidity,rust,haskell,go,threejs,tensorflow,pytorch,python" />
+</p>
+
+
 
 
 ---
@@ -140,7 +141,7 @@ I’m always exploring new intersections between <b>Blockchain, AI, and Automati
 
 <div align="center">
   <a href="mailto:stackweaver7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://t.me/@StackWeaver7"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://t.me/@SWeaver5"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   <a href="https://discord.gg/398866823602241538"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </div>
 
