@@ -139,7 +139,7 @@ I’m always exploring new intersections between <b>Blockchain, AI, and Automati
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stack-weaver&show_icons=true&theme=radical" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=StackWeaver9&show_icons=true&theme=radical" height="160px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stack-weaver&layout=compact&theme=radical" height="160px" />
 </div>
 
